@@ -1,0 +1,6 @@
+{
+  "name": "Lớp Học Văn Vui Vẻ",
+  "description": "Ứng dụng chấm bài văn tiểu học thông minh bằng AI, hỗ trợ đọc chữ viết tay, phân tích kể chuyện và miêu tả, xuất phiếu chấm Word và sổ tay giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
